@@ -18,4 +18,4 @@ client.on('message', msg => {
   }
 });
 
-client.login(config.token);
+client.login(start.token);
