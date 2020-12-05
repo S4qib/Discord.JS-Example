@@ -6,7 +6,7 @@ const start = {
 };
 
 client.once('ready', () => {
-	console.log('--------------');
+  console.log('--------------');
   console.log('Discord.JS Bot Example')
   console.log('Coded with <3 by Saqib')
   console.log('--------------');
